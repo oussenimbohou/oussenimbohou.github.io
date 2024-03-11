@@ -1,6 +1,6 @@
 # Ousseni Mbohou's Portfolio
 
-## Introduction
+## Summary
 
 Hello! I'm Ousseni Mbohou, a Junior Software Developer passionate about creating scalable web applications. With two years of experience, I've worked on diverse projects, optimizing code for performance and delivering top-notch solutions. This portfolio showcases some of my key projects and skills.
 
@@ -48,4 +48,4 @@ Hello! I'm Ousseni Mbohou, a Junior Software Developer passionate about creating
   - Islamic University of Technology, Dakha, Bangladesh (Dec. 2010 – Nov. 2014)
   
 - **Bachelor of Science in Physics**
-  - University of Yaounde 1, Yaounde, Cameroon (Sep. 2007 – Sep. 2011)
+  - University of Yaounde 1, Yaounde, Cameroon (Sep. 2007 – Sep. 2010)
