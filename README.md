@@ -12,5 +12,5 @@
 
 ### Education 
   - Master in Computer Engineering
-  - BAchelor in Computer Science & Engineering
+  - Bachelor in Computer Science & Engineering
   - Bachelor in Physics
