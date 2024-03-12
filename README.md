@@ -12,7 +12,7 @@ Hello! I'm Ousseni Mbohou, a Junior Software Developer passionate about creating
 - **Email:** oussenimbohou@gmail.com
 - **LinkedIn:** [linkedin.com/in/oussenimbohou](https://www.linkedin.com/in/oussenimbohou/)
 - **GitHub:** [github.com/oussenimbohou](https://github.com/oussenimbohou)
-- [**Download My CV**](assets/files/your/cv.pdf)
+- [**Download My CV Here...**](assets/files/cv.pdf)
 
 ## Projects
 
